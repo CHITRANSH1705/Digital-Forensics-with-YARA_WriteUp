@@ -1,4 +1,4 @@
-&nbsp;                                                                                       Room 			Write-Up – YARA Detection \& Analysis
+                                                                                      Room 			Write-Up – YARA Detection \& Analysis
 **Room Overview**
 This room introduces learners to the fundamentals of YARA-based detection and structured rule analysis within a cybersecurity context. The primary objective is to help users understand how detection logic works in SOC and DFIR environments by evaluating rule conditions and behavioral indicators.
 The room is designed as a beginner-friendly foundation that progressively builds analytical thinking rather than relying solely on automated tool execution.
@@ -74,5 +74,6 @@ This room provides a structured introduction to YARA logic and detection reasoni
 
 
 The content is beginner-accessible while laying the groundwork for more advanced detection engineering topics in future rooms.
+
 
 
