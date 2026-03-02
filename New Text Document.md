@@ -33,6 +33,7 @@ Learners analyze how partial vs complete indicator matches affect triggering.
 Realistic log-style scenarios simulate ransomware-like activity.
 **5.Structured conclusion**
 Reinforces key concepts and connects learning to real-world SOC workflows.
+
 Each task builds logically on the previous one to reinforce understanding.
 
 **Real-World Alignment**
@@ -73,6 +74,7 @@ This room provides a structured introduction to YARA logic and detection reasoni
 
 
 The content is beginner-accessible while laying the groundwork for more advanced detection engineering topics in future rooms.
+
 
 
 
