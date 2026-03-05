@@ -37,6 +37,7 @@ Reinforces key concepts and connects learning to real-world SOC workflows.
 
 Each task builds logically on the previous one to reinforce understanding.
 
+
 **Real-World Alignment**
 The room reflects practical detection workflows used in:
 * Security Operations Centers (SOC)
@@ -75,6 +76,7 @@ This room provides a structured introduction to YARA logic and detection reasoni
 
 
 The content is beginner-accessible while laying the groundwork for more advanced detection engineering topics in future rooms.
+
 
 
 
