@@ -10,6 +10,7 @@ This room is intended for:
 * Users exploring YARA for the first time
 * Learners preparing for incident response or threat hunting pathways
 
+
 No prior YARA experience is required.
 
 **Learning Outcomes**
@@ -74,6 +75,7 @@ This room provides a structured introduction to YARA logic and detection reasoni
 
 
 The content is beginner-accessible while laying the groundwork for more advanced detection engineering topics in future rooms.
+
 
 
 
